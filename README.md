@@ -1,4 +1,4 @@
-Here's a README file for your GitHub repository "flutter-MealMingle":
+Here's a README file for your GitHub repository "flutter-Kitchen-Mate":
 
 ---
 
@@ -12,12 +12,18 @@ Welcome to KitchenMate, a Flutter application designed to bring people together 
 
 To get started with KitchenMate, follow these steps:
 
-1. **Install dependencies**:
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/raunakmankapure/flutter-kitchen-mate.git
+    cd flutter-kitchen-mate
+    ```
+
+2. **Install dependencies**:
     ```bash
     flutter pub get
     ```
 
-2. **Run the app**:
+3. **Run the app**:
     ```bash
     flutter run
     ```
