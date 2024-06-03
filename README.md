@@ -28,15 +28,7 @@ To get started with KitchenMate, follow these steps:
 - **Dart**: Version 2.12.0 or higher.
 - **Firebase**: Set up a Firebase project for authentication and real-time database.
 
-## Configuration
-
-1. **Firebase Setup**:
-    - Create a new Firebase project.
-    - Add an Android app to your Firebase project and download the `google-services.json` file.
-    - Add an iOS app to your Firebase project and download the `GoogleService-Info.plist` file.
-    - Place these files in the appropriate directories in your Flutter project.
-
-2. **Update `pubspec.yaml`**:
+ **Update `pubspec.yaml`**:
     Ensure all necessary dependencies are included in your `pubspec.yaml` file. For example:
     ```yaml
     dependencies:
