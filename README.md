@@ -61,9 +61,13 @@ To get started with MealMingle, follow these steps:
 
 ## Screenshots
 ![HomeScreen](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/b0ba16f3-dc51-403d-b061-96f6573648ff)
+
 ![sideBar](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/af5e37c3-d2a2-49fa-b880-646b6b08fd8a)
+
 ![Favs](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/7c4294e9-8732-41a3-8412-d585ee9402e5)
+
 ![InnerScreen](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/83c8a5ab-9915-47a5-9b4b-4e16f602238d)
+
 ![recipe](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/7229975b-7117-4991-93fc-8fa6d26cc022)
 
 ## Contributing
@@ -78,7 +82,7 @@ We welcome contributions from the community! To contribute, please follow these 
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [raunakmankapure@example.com](mailto:raunakmankapure@gmail.com).
+For any inquiries or feedback, please contact us at [raunakmankapure@gmail.com](mailto:raunakmankapure@gmail.com).
 
 ---
 
