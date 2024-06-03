@@ -8,19 +8,9 @@ Here's a README file for your GitHub repository "flutter-MealMingle":
 
 Welcome to KitchenMate, a Flutter application designed to bring people together through shared meals. Whether you're a food enthusiast looking to explore new cuisines and its recipes, Including features like grate UI and fev sections
 
-## Features
-
-- **User Authentication**: Secure login and registration functionality.
-- **Event Creation**: Easily create and manage meal events.
-- **Event Discovery**: Browse and join meal events created by others.
-- **User Profiles**: View and edit user profiles.
-- **Real-time Chat**: Communicate with other event participants in real-time.
-- **Push Notifications**: Receive notifications for event updates and messages.
-- **Ratings and Reviews**: Share your dining experience by rating and reviewing events.
-
 ## Installation
 
-To get started with MealMingle, follow these steps:
+To get started with KitchenMate, follow these steps:
 
 1. **Install dependencies**:
     ```bash
