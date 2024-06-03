@@ -95,10 +95,6 @@ We welcome contributions from the community! To contribute, please follow these 
 4. Push your changes to your forked repository.
 5. Open a pull request to the main repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For any inquiries or feedback, please contact us at [raunakmankapure@example.com](mailto:raunakmankapure@gmail.com).
