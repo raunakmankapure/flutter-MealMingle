@@ -49,17 +49,8 @@ To get started with KitchenMate, follow these steps:
 
 ## Screenshots
 
-**Sidebar**
-![sideBar](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/af5e37c3-d2a2-49fa-b880-646b6b08fd8a)
+![imggg_2](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/ada6157b-b665-4376-a32e-8e0ba57a7cf0)
 
-**Fav Screen**
-![Favs](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/7c4294e9-8732-41a3-8412-d585ee9402e5)
-
-**Sections Screen**
-![InnerScreen](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/83c8a5ab-9915-47a5-9b4b-4e16f602238d)
-
-**Recipe Screen**
-![recipe](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/7229975b-7117-4991-93fc-8fa6d26cc022)
 
 ## Contributing
 
