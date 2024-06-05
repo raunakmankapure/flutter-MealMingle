@@ -48,8 +48,6 @@ To get started with KitchenMate, follow these steps:
     ```
 
 ## Screenshots
-**Landing Screen**
-![HomeScreen](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/b0ba16f3-dc51-403d-b061-96f6573648ff)
 
 **Sidebar**
 ![sideBar](https://github.com/raunakmankapure/flutter-kitchen-mate/assets/113294200/af5e37c3-d2a2-49fa-b880-646b6b08fd8a)
